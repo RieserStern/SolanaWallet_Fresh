@@ -1,0 +1,12 @@
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\bin\Debug\net6.0\SolanaWallet_Fresh.Shared.deps.json
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\bin\Debug\net6.0\SolanaWallet_Fresh.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\bin\Debug\net6.0\SolanaWallet_Fresh.Shared.pdb
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.csproj.AssemblyReference.cache
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.AssemblyInfoInputs.cache
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.AssemblyInfo.cs
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.csproj.CoreCompileInputs.cache
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\refint\SolanaWallet_Fresh.Shared.dll
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\SolanaWallet_Fresh.Shared.pdb
+E:\Blockchain\Solana\Lydian_Project\SolanaWallet_Fresh\Shared\obj\Debug\net6.0\ref\SolanaWallet_Fresh.Shared.dll

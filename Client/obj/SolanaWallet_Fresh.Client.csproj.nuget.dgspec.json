@@ -1,0 +1,166 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Client\\SolanaWallet_Fresh.Client.csproj": {}
+  },
+  "projects": {
+    "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Client\\SolanaWallet_Fresh.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Client\\SolanaWallet_Fresh.Client.csproj",
+        "projectName": "SolanaWallet_Fresh.Client",
+        "projectPath": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Client\\SolanaWallet_Fresh.Client.csproj",
+        "packagesPath": "C:\\Users\\Rieser Stern\\.nuget\\packages\\",
+        "outputPath": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rieser Stern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\SolanaWallet_Fresh.Shared.csproj": {
+                "projectPath": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\SolanaWallet_Fresh.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Blazored.Modal": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Solnet.Programs": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Solnet.Rpc": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Solnet.Wallet": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\SolanaWallet_Fresh.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\SolanaWallet_Fresh.Shared.csproj",
+        "projectName": "SolanaWallet_Fresh.Shared",
+        "projectPath": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\SolanaWallet_Fresh.Shared.csproj",
+        "packagesPath": "C:\\Users\\Rieser Stern\\.nuget\\packages\\",
+        "outputPath": "E:\\Blockchain\\Solana\\Lydian_Project\\SolanaWallet_Fresh\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rieser Stern\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
